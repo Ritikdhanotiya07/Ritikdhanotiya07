@@ -76,9 +76,9 @@ int main()
                         cout << "You couldn't find the "
                                 "secret number, it was "
                              << secretNumber
-                             << ", You lose!!\n\n";
+                             << ", You lose\n\n";
                         cout << "Play the game again to "
-                                "win!!!\n\n";
+                                "win\n\n";
                     }
                 }
             }
@@ -131,9 +131,9 @@ int main()
                         cout << "You couldn't find the "
                                 "secret number, it was "
                              << secretNumber
-                             << ", You lose!!\n\n";
+                             << ", You lose\n\n";
                         cout << "Play the game again to "
-                                "win!!!\n\n";
+                                "win\n\n";
                     }
                 }
             }
@@ -185,9 +185,9 @@ int main()
                         cout << "You couldn't find the "
                                 "secret number, it was "
                              << secretNumber
-                             << ", You lose!!\n\n";
+                             << ", You lose\n\n";
                         cout << "Play the game again to "
-                                "win!!!\n\n";
+                                "win\n\n";
                     }
                 }
             }
